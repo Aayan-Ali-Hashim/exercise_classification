@@ -1,6 +1,6 @@
 # exercise_classification
 
-# 🏋️ Video Classification with ResNet3D  
+# Video Classification with ResNet3D  
 
 This project is about classifying exercise videos like push ups, bench press, deadlifts etc.  
 I used **ResNet3D (r3d_18)** as my main model.  
