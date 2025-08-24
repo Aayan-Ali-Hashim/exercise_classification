@@ -8,7 +8,7 @@ I used **ResNet3D (r3d_18)** as my main model.
 ##  Why I used ResNet3D?  
 
 At first I tried looking at 2D CNN models like ResNet18 or GoogLeNet, but those models only look at single images.  
-That works fine for normal image classification, but in videos the important part is not just *what* is in one frame, but also *how it changes over time*.  
+That works fine for normal image classification, but in videos the important part is not just what is in one frame, but also how it changes over time.  
 
 Example:  
 - A single frame of a push up looks like a plank.  
